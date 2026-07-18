@@ -4,10 +4,8 @@ This project presents an interactive Bank Loan Analytics Dashboard developed in 
 The dashboard enables business users to monitor key banking metrics and make data-driven decisions through interactive visualizations.
 ---
 ## Dashboard Preview
-### Dashboard Page
-![Dashboard](Images/dashboard-overview.png)
-### Overview Page
-![Overview](Images/dashboard-summary.png)
+![Dashboard](dashboard-overview.png)
+![Overview](dashboard-summary.png)
 ---
 ## Tools Used
 - Power BI
