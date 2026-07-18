@@ -5,6 +5,7 @@ The dashboard enables business users to monitor key banking metrics and make dat
 ---
 ## Dashboard Preview
 ![Dashboard](dashboard-overview.png)
+## Summary Preview
 ![Overview](dashboard-summary.png)
 ---
 ## Tools Used
