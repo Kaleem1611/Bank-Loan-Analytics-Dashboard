@@ -34,7 +34,6 @@ The dashboard enables business users to monitor key banking metrics and make dat
 ---
 ## Skills Demonstrated
 - Data Cleaning
-- Data Modeling
 - DAX Calculations
 - KPI Design
 - Dashboard Design
